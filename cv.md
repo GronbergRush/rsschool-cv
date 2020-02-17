@@ -18,3 +18,11 @@ Get skills and basics in order to become a full-fledged Front-end web developer 
 Online courses Codecademy - HTML and CSS.
 
 ---
+## Education
+
+Technical, higher
+
+---
+## English
+
+Semi-annual English courses "Leader" to level A2. Currently actively studying to get level B1.
