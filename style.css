@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    max-width: 1024px;    
+}
+
+html {
+    font-size: 10px;   
+}
+
+body {     
+    margin: auto;
+    width: 968px;     
+    font-size: 1.6rem;
+    font-family: Verdana, sans-serif; 
+    text-align: left;     
+    background-color: #FFF;    
+}
+
+.contacts li {
+    list-style-type: circle;
+    text-align: left;               
+}
+
+.myPhoto {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+}
